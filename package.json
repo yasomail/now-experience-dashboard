@@ -19,6 +19,8 @@
 		"@servicenow/cli-component-archetype": "18.0.0",
 		"@servicenow/library-translate": "paris",
 		"@servicenow/now-button": "^18.4.2",
+		"@servicenow/now-heading": "^18.4.2",
+		"@servicenow/now-label-value": "^18.4.2",
 		"@servicenow/sass-kit": "paris",
 		"@servicenow/sass-theme": "paris",
 		"@servicenow/ui-core": "paris",
